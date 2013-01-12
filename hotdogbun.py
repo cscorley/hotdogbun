@@ -1,7 +1,5 @@
 import sys
-from optparse import OptionParser
 from PyPDF2 import PdfFileWriter, PdfFileReader
-
 
 def split(paperpdf, splitpdf):
     output = PdfFileWriter()
