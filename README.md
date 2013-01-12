@@ -6,7 +6,7 @@ smaller devices in continuous scroll mode instead of fumbling around on
 the screen like idiots.
 
 All this script does is split each page of a PDF down the middle,
-hotdog bun style. Actually, that sounds like a pretty awesome repo name...
+hotdog bun style.
 
 Usage
 -----
@@ -19,5 +19,5 @@ Requirements
 ------------
 
 Right now, this script uses the [PyPDF2](https://github.com/knowah/PyPDF2/)
-library to split things, which requires manual installation. I'd really like 
+library to split things, which requires manual installation. I'd really like
 to change that to something that can be installed from `pip`. Let me know.
