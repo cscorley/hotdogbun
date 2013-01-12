@@ -23,3 +23,12 @@ library to split things, which requires manual installation. I'd really like
 to change that to something that can be installed from `pip`. Let me know.
 
 For now, you can install the current PyPDF2 by running `make pypdf2`.
+
+....Hotdog bun?
+---------------
+`python2 `<a href="http://en.wikipedia.org/wiki/File:Hotdog_-_Evan_Swigart.jpg"><img src="http://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Hotdog_-_Evan_Swigart.jpg/150px-Hotdog_-_Evan_Swigart.jpg"></a>`.py` <img src="https://raw.github.com/cscorley/hotdogbun/master/orig.png" height=300px>
+***=======>***
+<img src="https://raw.github.com/cscorley/hotdogbun/master/split.png" height=300px>
+
+
+... basically.
