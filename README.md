@@ -21,3 +21,5 @@ Requirements
 Right now, this script uses the [PyPDF2](https://github.com/knowah/PyPDF2/)
 library to split things, which requires manual installation. I'd really like
 to change that to something that can be installed from `pip`. Let me know.
+
+For now, you can install the current PyPDF2 by running `make pypdf2`.
