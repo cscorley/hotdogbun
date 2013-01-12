@@ -7,6 +7,7 @@ def split(paperpdf, splitpdf):
     with open(paperpdf, "rb") as l:
         with open(paperpdf, "rb") as r:
             # I know... I know.
+            # We have to do this because PyPDF2 kind of sucks.
             left = PdfFileReader(l)
             right = PdfFileReader(r)
 
